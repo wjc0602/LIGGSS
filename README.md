@@ -5,7 +5,7 @@
 
 | 主要结果
 
-![主要结果](selects\39589956_c7925b133a_b.jpg)![主要结果](selects\389149475_87ddf6a45a_b.jpg)![主要结果](selects\3602870053_a8e9eeb997_b.jpg)
+![主要结果](.selects\39589956_c7925b133a_b.jpg)![主要结果](.selects\389149475_87ddf6a45a_b.jpg)![主要结果](.selects\3602870053_a8e9eeb997_b.jpg)
 
 ## 简介
 
@@ -52,9 +52,3 @@ python test.py
 ## 致谢
 
 此项目基于论文 *Semantic Image Synthesis with Spatially-Adaptive Normalization* 实现，部分代码参考了 [jittor-gan](https://github.com/Jittor/gan-jittor)。
-
-## 注意事项
-
-点击项目的“设置”，在Description一栏中添加项目描述，需要包含“jittor”字样。同时在Topics中需要添加jittor。
-
-![image-20220419164035639](https://s3.bmp.ovh/imgs/2022/04/19/6a3aa627eab5f159.png)
