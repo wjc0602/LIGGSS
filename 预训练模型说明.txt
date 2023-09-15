@@ -1,0 +1,9 @@
+模型名称：VGG19
+使用数据集：ImageNet
+代码链接：https://github.com/Jittor/jittor/blob/master/python/jittor/models/vgg.py
+参数链接：jittorhub://vgg19.pkl
+
+模型名称：vit_base_patch16_224_in21k
+使用数据集：ImageNet
+代码链接：在源代码中有使用jittor复现
+参数链接：https://storage.googleapis.com/vit_models/augreg/B_16-i21k-300ep-lr_0.001-aug_medium1-wd_0.1-do_0.0-sd_0.0.npz
